@@ -1,0 +1,532 @@
+
+/* 4s*/
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+    .marg-top2 {
+        margin-top: 20px;
+    }
+
+    .section-main {
+        height: 116vh!important;
+    }
+
+    .section {
+        height: 161vh;
+    }
+    .mar-top15 {
+        margin-top: 15px;
+    }
+
+    .section-innovative {
+        padding: 50px 0 0 0;
+        text-align: center;
+        height: 177vh;
+    }
+
+    .section-training {
+        height: 128vh;
+    }
+
+    .mar-top16 {
+        margin-top: 27px;
+    }
+
+    .section-course {
+        height: 147vh;
+    }
+
+    .section-book {
+        height: 159vh;
+    }
+
+    .mar-top17 {
+        margin-top: 33px;
+    }
+
+    .section-gameplay {
+        height: 153vh;
+    }
+
+    .section-teacher {
+        height: 185vh;
+    }
+
+    .section-cost {
+        height: 125vh;
+    }
+
+    .section-register {
+        padding: 13px 0 60px;
+        height: 178vh;
+    }
+
+    .section-register__form {
+        margin-bottom: 21px;
+    }
+}
+
+/* Portrait */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+    .marg-top2 {
+        margin-top: 20px;
+    }
+
+    .section-main {
+        height: 116vh!important;
+    }
+
+    .section {
+        height: 161vh;
+    }
+    .mar-top15 {
+        margin-top: 15px;
+    }
+
+    .section-innovative {
+        padding: 50px 0 0 0;
+        text-align: center;
+        height: 177vh;
+    }
+
+    .section-training {
+        height: 128vh;
+    }
+
+    .mar-top16 {
+        margin-top: 27px;
+    }
+
+    .section-course {
+        height: 147vh;
+    }
+
+    .section-book {
+        height: 159vh;
+    }
+
+    .mar-top17 {
+        margin-top: 33px;
+    }
+
+    .section-gameplay {
+        height: 153vh;
+    }
+
+    .section-teacher {
+        height: 185vh;
+    }
+
+    .section-cost {
+        height: 125vh;
+    }
+
+    .section-register {
+        padding: 13px 0 60px;
+        height: 178vh;
+    }
+
+    .section-register__form {
+        margin-bottom: 21px;
+    }
+}
+
+/* Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+    .marg-top2 {
+        margin-top: 20px;
+    }
+
+    .section-main {
+        height: 116vh!important;
+    }
+
+    .section {
+        height: 161vh;
+    }
+    .mar-top15 {
+        margin-top: 15px;
+    }
+
+    .section-innovative {
+        padding: 50px 0 0 0;
+        text-align: center;
+        height: 177vh;
+    }
+
+    .section-training {
+        height: 128vh;
+    }
+
+    .mar-top16 {
+        margin-top: 27px;
+    }
+
+    .section-course {
+        height: 147vh;
+    }
+
+    .section-book {
+        height: 159vh;
+    }
+
+    .mar-top17 {
+        margin-top: 33px;
+    }
+
+    .section-gameplay {
+        height: 153vh;
+    }
+
+    .section-teacher {
+        height: 185vh;
+    }
+
+    .section-cost {
+        height: 125vh;
+    }
+
+    .section-register {
+        padding: 13px 0 60px;
+        height: 178vh;
+    }
+
+    .section-register__form {
+        margin-bottom: 21px;
+    }
+
+}
+
+
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+    .marg-top2 {
+        margin-top: 20px;
+    }
+
+    .section-main {
+        height: 101vh !important;
+    }
+
+    .section {
+        height: 161vh;
+    }
+    .mar-top15 {
+        margin-top: 15px;
+    }
+
+    .section-innovative {
+        padding: 50px 0 0 0;
+        text-align: center;
+        height: 150vh;
+    }
+
+    .section-training {
+        height: 108vh;
+    }
+
+    .mar-top16 {
+        margin-top: 27px;
+    }
+
+    .section-course {
+        height: 125vh;
+    }
+
+    .section-book {
+        height: 136vh;
+    }
+
+    .mar-top17 {
+        margin-top: 33px;
+    }
+
+    .section-gameplay {
+        height: 130vh;
+    }
+
+    .section-teacher {
+        height: 157vh;
+    }
+
+    .section-cost {
+        height: 106vh;
+    }
+
+    .section-register {
+        padding: 13px 0 60px;
+        height: 151vh;
+    }
+
+    .section-register__form {
+        margin-bottom: 21px;
+    }
+}
+
+
+/* Portrait */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+
+    .marg-top2 {
+        margin-top: 20px;
+    }
+
+    .section-main {
+        height: 101vh !important;
+    }
+
+    .section {
+        height: 161vh;
+    }
+    .mar-top15 {
+        margin-top: 15px;
+    }
+
+    .section-innovative {
+        padding: 50px 0 0 0;
+        text-align: center;
+        height: 150vh;
+    }
+
+    .section-training {
+        height: 108vh;
+    }
+
+    .mar-top16 {
+        margin-top: 27px;
+    }
+
+    .section-course {
+        height: 125vh;
+    }
+
+    .section-book {
+        height: 136vh;
+    }
+
+    .mar-top17 {
+        margin-top: 33px;
+    }
+
+    .section-gameplay {
+        height: 130vh;
+    }
+
+    .section-teacher {
+        height: 157vh;
+    }
+
+    .section-cost {
+        height: 106vh;
+    }
+
+    .section-register {
+        padding: 13px 0 60px;
+        height: 151vh;
+    }
+
+    .section-register__form {
+        margin-bottom: 21px;
+    }
+}
+
+/* Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) {
+    .marg-top2 {
+        margin-top: 20px;
+    }
+
+    .section-main {
+        height: 101vh !important;
+    }
+
+    .section {
+        height: 161vh;
+    }
+    .mar-top15 {
+        margin-top: 15px;
+    }
+
+    .section-innovative {
+        padding: 50px 0 0 0;
+        text-align: center;
+        height: 150vh;
+    }
+
+    .section-training {
+        height: 108vh;
+    }
+
+    .mar-top16 {
+        margin-top: 27px;
+    }
+
+    .section-course {
+        height: 125vh;
+    }
+
+    .section-book {
+        height: 136vh;
+    }
+
+    .mar-top17 {
+        margin-top: 33px;
+    }
+
+    .section-gameplay {
+        height: 130vh;
+    }
+
+    .section-teacher {
+        height: 157vh;
+    }
+
+    .section-cost {
+        height: 106vh;
+    }
+
+    .section-register {
+        padding: 13px 0 60px;
+        height: 151vh;
+    }
+
+    .section-register__form {
+        margin-bottom: 21px;
+    }
+}
+
+
+
+
+/*******/
+
+
+
+/* iphone 7+*/
+@media only screen
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3) {
+    .section-innovative {
+        padding: 40px 0;
+        text-align: center;
+        height: 145vh;
+    }
+
+    .mar-top400 {
+        margin-top: 90px;
+    }
+    .section-training {
+        height: 104vh;
+    }
+
+    .section-course {
+        height: 124vh;
+        padding: 44px 0;
+    }
+
+    .section-book {
+        height: 123vh ;
+    }
+
+    .section-gameplay {
+        height: 114vh;
+    }
+
+    .section-cost {
+        height: 92vh;
+    }
+
+    .section-register {
+        padding: 20px 0 0px;
+        height:122vh;
+    }
+
+    .section-teacher {
+        padding: 40px 0 0;
+        text-align: center;
+        height: 133vh;
+    }
+}
+
+/* Portrait */
+@media only screen
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: portrait) {
+    .section-innovative {
+        padding: 40px 0;
+        text-align: center;
+        height: 145vh;
+    }
+
+    .mar-top400 {
+        margin-top: 90px;
+    }
+    .section-training {
+        height: 104vh;
+    }
+
+    .section-course {
+        height: 124vh;
+        padding: 44px 0;
+    }
+
+    .section-book {
+        height: 123vh ;
+    }
+
+    .section-gameplay {
+        height: 114vh;
+    }
+
+    .section-cost {
+        height: 92vh;
+    }
+
+    .section-register {
+        padding: 20px 0 0px;
+        height:122vh;
+    }
+
+    .section-teacher {
+        padding: 40px 0 0;
+        text-align: center;
+        height: 133vh;
+    }
+}
+
+/* Landscape */
+@media only screen
+and (min-device-width: 414px)
+and (max-device-width: 736px)
+and (-webkit-min-device-pixel-ratio: 3)
+and (orientation: landscape) {
+
+}
+
